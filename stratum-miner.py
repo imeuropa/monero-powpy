@@ -43,7 +43,7 @@ from multiprocessing import Process, Queue
 pool_host = 'monerop.com'
 pool_port = 4242
 pool_pass = 'xx'
-wallet_address = '42ydzcV2cJxGzKpmZMbsmtahZUhprCspgP9pBYoDk5F5HGUYTCBY3Sn83zTcm5yYeVPYsvikWim35ZajZqo5ReBPFg2CF79'
+wallet_address = '49MQkqtfR42DZWnSYE4uKg1rcQq3ve5Wo5ndPknmavvDFUPjH6yJuUn6x3vvF7MB3PcV3owvrV9ExC8azJdekPvb3pyhTi6'
 
 
 def main():
